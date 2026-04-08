@@ -57,7 +57,7 @@ The platform simplifies complex career decisions and helps users take meaningful
 ## 🖼️ Screenshots
 
 ### Homepage
-![Uploading image.png…]()
+![Uploading image.png…](Homepage.png)
 
 
 ### Blog Page
