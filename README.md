@@ -64,7 +64,7 @@ The platform simplifies complex career decisions and helps users take meaningful
 ![Blog Page](add-your-blogpage-screenshot-url-here)
 
 ### Sample Post
-![Blog Post](add-your-post-screenshot-url-here)
+![Blog Post](Post_page.png)
 
 ---
 
